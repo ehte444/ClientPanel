@@ -20,6 +20,11 @@
 #### Can be used to manage customers 👍🏻.
 
 
+#Login Credentials
+username : user@email.com
+password : useradmin
+
+
 ## Dependencies 🗃
 
 - [React] - **Frontend Framework**
