@@ -8,14 +8,14 @@
 ![](https://raw.githubusercontent.com/ehte444/ClientPanel/master/.gitres/Screenshot%20(254).png)
 
 - **CRUD Application**
-- **Firebase Plugged in**
+- **Firebase Plugged in with Firebase Cloud-Store and Hosting**
 - **Authentication**
 - **Local Storage based settings sync**
 - **Clean UI ⚡**
 
 ## What is Client Panel 🤔
 
-#### Client Panel is a Cash-FLow Managing WebApp
+#### Client Panel is a Cash-Flow Managing WebApp
 
 #### Can be used to manage customers 👍🏻.
 
