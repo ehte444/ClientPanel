@@ -29,7 +29,8 @@
 
 - [React] - **Frontend Framework**
 - [Bootstrap] - **CSS Framework**
-
+- [Firebase-Firestore] - **Database**
+- [Redux] - **State Management Library**
 
 ## Run Locally 💻
 
