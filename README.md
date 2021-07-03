@@ -20,9 +20,9 @@
 #### Can be used to manage customers 👍🏻.
 
 
-##  Login Credentials
-username : user@email.com
-password : useradmin
+## Login Credentials
+#### username : user@email.com
+#### password : useradmin
 
 
 ## Dependencies 🗃
