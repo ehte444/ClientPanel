@@ -38,7 +38,7 @@
 > Clone the repo
     >> For Windows: Git Bash
     >> For Linux: Terminal
-    >> git clone https://github.com/AsishRaju/450-DSA.git
+    >> git clone https://github.com/ehte444/ClientPanel.git
 > Change the folder location to your source Code Folder
     >> cd reactclientpanel/src
 > Install the dependencies
