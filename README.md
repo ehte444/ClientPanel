@@ -5,7 +5,7 @@
 
 ## Overview 👀
 
-![](https://raw.githubusercontent.com/ehte444/DataStructures-Visualiser/main/.gitres/Screenshot%20(251).png)
+![](https://raw.githubusercontent.com/ehte444/ClientPanel/master/.gitres/Screenshot%20(254).png)
 
 - **CRUD Application**
 - **Firebase Plugged in**
